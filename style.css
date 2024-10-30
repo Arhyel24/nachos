@@ -19,6 +19,7 @@ body {
 main {
   width: 100%;
   overflow: hidden;
+  margin-top: 60px;
 }
 
 /* Nav bar section */
@@ -186,7 +187,7 @@ main {
 }
 
 .section .text-side p {
-  font-size: 1rem;
+  font-size: .7rem;
 }
 
 .section .text-side a {
